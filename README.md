@@ -1,0 +1,2 @@
+# MyStatisFiles
+Static Files
